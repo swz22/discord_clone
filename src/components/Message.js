@@ -11,7 +11,6 @@ function Message() {
           swz22
           <span className="message_timestamp">Timestamp placeholder</span>
         </h4>
-
         <p> Sample message placeholder </p>
       </div>
     </div>
