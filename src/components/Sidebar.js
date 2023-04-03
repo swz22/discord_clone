@@ -1,4 +1,5 @@
 import React from "react";
+import "./Sidebar.css";
 import SidebarChannel from "./SidebarChannel";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import AddIcon from "@material-ui/icons/Add";

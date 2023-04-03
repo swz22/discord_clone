@@ -1,10 +1,14 @@
-import React from 'react';
+import React from "react";
+import "./SidebarChannel.css";
 
-function SidebarChannel({id, channel}) {
-  return <div className="sidebar-channel">
-  <h4><span className='sidebarChannel_hash'>#</span>Placeholder</h4>
-
-  </div>;
+function SidebarChannel({ id, channel }) {
+  return (
+  <div className="sidebarChannel">
+    <h4>
+      <span className='sidebarChannel_hash'>#</span>Placeholder
+    </h4>
+  </div>
+  );
 }
 
 export default SidebarChannel
