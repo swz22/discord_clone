@@ -5,11 +5,11 @@
     color: white;
   }
   
-  .message__info {
+  .message_info {
     margin-left: 20px;
   }
   
-  .message__timestamp {
+  .message_timestamp {
     color: gray;
     margin-left: 20px;
     font-size: x-small;
