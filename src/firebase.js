@@ -3,13 +3,13 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCNxH2fKJUPkCeHHvIOfCQUFXIzwsT7Njw",
-    authDomain: "discord-clone-fdf58.firebaseapp.com",
-    projectId: "discord-clone-fdf58",
-    storageBucket: "discord-clone-fdf58.appspot.com",
-    messagingSenderId: "309961678717",
-    appId: "1:309961678717:web:90efd4b45e0a9fa48e7614"
-  };
+  apiKey: "AIzaSyD5UvNkqaa_uqpI79-SRtEahMSRVeyRL7U",
+  authDomain: "chatprojectdsc.firebaseapp.com",
+  projectId: "chatprojectdsc",
+  storageBucket: "chatprojectdsc.appspot.com",
+  messagingSenderId: "1044488375663",
+  appId: "1:1044488375663:web:dc949c780220c431396c9a"
+};
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
   const db = firebaseApp.firestore();
